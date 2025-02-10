@@ -5,7 +5,7 @@
 # Et pour changer l'intensité d'une couleur, il dispose des touches "UP" et "DOWN" du clavier
 # Pour changer d'image, l'utilisateur appui sur la touche "ENTER" du clavier
 
-#Les images sont contenues dans un dossier nommé "IMG_FILTRE_SPECIALs"
+#Les images sont contenues dans un dossier nommé "IMG_FILTRE_SPECIAL"
 
 
 import numpy
